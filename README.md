@@ -1,1 +1,3 @@
-- 👋 Hi, I’m @Yaw-Oti-Boaitey
+- 👋 Hi, I’m @Yaw-Oti-Boaitey. 
+- Welcome to my GitHub Page. 
+- Feel free to check out all the projects I've made.
